@@ -1,0 +1,12 @@
+{
+  "name": "vulkanshow",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "vulkan-headers",
+    "vulkan-loader",
+    "glfw3",
+    "glm",
+    "imgui"
+  ],
+  "builtin-baseline": "2ebb714221ad4e482e596d64c129f63fbbfb3fd5"
+}
